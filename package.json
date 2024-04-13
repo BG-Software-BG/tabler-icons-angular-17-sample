@@ -20,7 +20,6 @@
     "@angular/platform-browser-dynamic": "^17.2.0",
     "@angular/router": "^17.2.0",
     "@tabler/icons-angular": "file:..\\..\\tabler-icons\\packages\\icons-angular\\dist\\icons-angular\\tabler-icons-angular-3.0.0-alpha.1.tgz",
-    "lucide-angular": "^0.358.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
